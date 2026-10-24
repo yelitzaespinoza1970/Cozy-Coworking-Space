@@ -2,6 +2,7 @@
 
 ### Coworking Space Landing Page | Figma to HTML & CSS
 
+![Cozy Coworking Space Screenshot](127.0.0.1_5500_index.html%20%287%29.png)
 ## 📌 Project Overview
 
 Cozy Coworking Space is a landing page recreated from a Figma design as part of my Full Stack Development training.
